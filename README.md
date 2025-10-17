@@ -109,9 +109,8 @@ Free for personal use, modification, and redistribution.
 If you share or fork it, please keep the author credit intact.
 
 **Author:** Jaramiiyo
-**Base code:** GPT Collaboration
 **Addon:** AutoStatusAnnouncer – Core Lite
-**Version:** 5.1.0
+**Version:** 1.0.0
 
 ```
 
