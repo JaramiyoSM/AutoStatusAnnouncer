@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AutoStatusAnnouncer
+## Notes: Minimal ASA without UI. Announces HP/MP 50/20/10/5, damage, death. Edit config at top.
+## Author: Jaramiiyo
+## Version: 1.0.0
+## SavedVariables: ASA_DB
+
+AutoStatusAnnouncer.lua
