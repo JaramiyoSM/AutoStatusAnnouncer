@@ -108,7 +108,7 @@ local MP50,MP20,MP10,MP5=50,20,10,5
 Free for personal use, modification, and redistribution.
 If you share or fork it, please keep the author credit intact.
 
-**Author:** Jaramiiyo
-**Addon:** AutoStatusAnnouncer – Core Lite
-**Version:** 1.0.0
+Author: Jaramiiyo
+Addon: AutoStatusAnnouncer – Core Lite
+Version: 1.0.0
 ```
