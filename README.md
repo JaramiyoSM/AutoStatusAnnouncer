@@ -113,8 +113,4 @@ If you share or fork it, please keep the author credit intact.
 **Version:** 1.0.0
 
 ```
-
----
-
-Would you like me to add this `README.md` file **inside the addon ZIP** so it’s pre-packaged and ready to upload to GitHub?
 ```
